@@ -1,0 +1,1 @@
+Devre görselleri buraya gelecek
