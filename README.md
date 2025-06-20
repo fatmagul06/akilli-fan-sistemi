@@ -28,4 +28,10 @@ Bu proje, PT100 sıcaklık sensörü ile ortam sıcaklığına göre fan hızın
 Fatmagül Önen – Yazılım Geliştirici
 
 ## 📄 Lisans
-Bu proje MIT Lisansı ile lisanslanmıştır.
+
+Bu proje, bağlı bulunulan kurum/şirket bünyesinde geliştirilmiş olup tüm içerik ve bileşenler kurumsal amaçlarla kullanılmak üzere hazırlanmıştır.
+
+Projede yer alan kodlar, belgeler ve diğer materyaller; ilgili kurumun izni olmaksızın kopyalanamaz, dağıtılamaz veya üçüncü kişilerle paylaşılamaz.
+
+Tüm hakları saklıdır.
+
